@@ -1,6 +1,6 @@
    Project Earth   
 
-![Project Earth logo](https://github.com/Project-Earth-Team.png)
+[Project Earth logo](https://github.com/Project-Earth-Team.png)
 
 Project Earth
 =============
@@ -13,10 +13,13 @@ What is Project Earth?
 ======================
 
 We're recreating the server system for Minecraft Earth, and also _slightly_ modding the client to allow for you to join the custom server. This allows for anyone who wants to to continue playing the game by importing their data into our servers, and lets people pick up where they left off after the official servers close.
+[](#download)
+link to download 
 
-![](modded.png)
 
-![](devmenu_a.png)
+[](modded.png)
+
+[](devmenu_a.png)
 
 How Does It Work?
 =================
